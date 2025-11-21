@@ -4,6 +4,10 @@
 .pnp.js
 
 # testing
+DEPLOYMENT.md
+FEATURES.md
+
+# testing
 /coverage
 
 # next.js
